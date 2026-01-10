@@ -1,0 +1,25 @@
+.portfolio{
+    margin: 0 auto;
+    width: 1140px;
+    padding-top: 125px;
+}
+
+.portfolio h2{
+    color: #222;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 59px;
+    text-transform: capitalize;
+
+}
+
+.grid {
+    margin: 0px auto;
+    width: 1140px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+

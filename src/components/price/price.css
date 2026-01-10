@@ -1,0 +1,153 @@
+.price{
+    margin-top: 125px;
+    margin: 0 auto;
+}
+
+.price h2{
+    text-align: center;
+    color: #222;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+
+.price .wrap{
+    margin: 0 auto;
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.price .item{
+    margin-top: 64px;
+    width: 335px;
+    height: 500px;
+    border-radius: 15px;
+    background: #F9F9F9;
+    box-shadow: 0 20px 40px 0 rgba(255, 115, 21, 0.10);
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 335px;
+    height: 66px;
+    border-radius: 15px 15px 0 0;
+    background: #FF9B70;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.price .item h4{
+    color: #F9F9F9;
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 36px;
+}
+
+.price .item h2{
+    color: #2B2B2B;
+    font-family: Poppins, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.price .item p{
+    width: 70px;
+    margin-left: 12px;
+    color: #2B2B2B;
+    opacity: 0.5;
+    font-kerning: none;
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+
+.list-case{
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.list-case ul li{
+    position: relative;
+    color: #222;
+    font-kerning: none;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+    margin-top: 12px;
+    list-style: none;
+}
+
+.price .silver li:nth-child(n+9){
+    color: #222;
+    opacity: 0.5;
+}
+
+.price .gold li:nth-child(n+5){
+    color: #222;
+    opacity: 0.5;
+}
+
+.icon{
+    position: absolute;
+    left: -30px;
+    top: 3px;
+    width: 15px;
+    height: 9px;
+    border-left: solid 2px #FF7315;
+    border-bottom: solid 2px #FF7315;
+    transform: rotate(-45deg);
+}
+
+.cross{
+    position: absolute;
+    left: -25px;
+    top: 18px;
+}
+
+.cross::before, .cross::after{
+    content: "";
+    display: block;
+    margin-top: -15px;
+    width: 2px;
+    height: 15px;
+    background-color: rgba(43, 43, 43, 1);
+    opacity: 0.5;
+}
+
+.cross::before{
+    transform: rotate(-45deg);
+}
+
+.cross::after{
+    transform: rotate(45deg);
+}
+
+
+

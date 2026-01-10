@@ -1,0 +1,48 @@
+.social{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 54px;
+    width: 240px;
+    height: 48px;
+}
+
+.ring{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    transition: 1s ease;
+}
+
+.ring:hover{
+    scale: 1.1;
+}
+
+.greetings .information .social img{
+    padding: 15px;
+    transition: 1s ease;
+}
+
+.greetings .information .social img:hover{
+    scale: 1.1;
+}
+
+.fb{
+    background: #728CF7;
+}
+
+.tw{
+    background: #E17094;
+}
+
+.in{
+    background: #68AAF3;
+;
+}
+
+.te{
+    background: #FF9B70;
+
+}

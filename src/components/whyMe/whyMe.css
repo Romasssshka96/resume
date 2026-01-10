@@ -1,0 +1,24 @@
+.why-my{
+    margin-top: 125px;
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.why-my h2{
+    color: #222;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+.why-my .wrap{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+
+

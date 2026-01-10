@@ -1,0 +1,60 @@
+
+
+.message{
+    margin: 0 auto;
+    width: 1110px;
+    height: 224px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    border-radius: 25px;
+    background: #FF7315;
+}
+
+.message h2{
+    color: #F9F9F9;
+    font-family: Poppins, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+.message button{
+    width: 259px;
+    height: 70px;
+    border-radius: 10px;
+    background: #F9F9F9;
+    box-shadow: 0 0.927px 1.924px 0 rgba(0, 0, 0, 0.01);
+    color: #222;
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    transition: 1s ease;
+}
+
+
+
+.message button:hover{
+    box-shadow: 10px 6px 28px -12px rgba(0,0,0,0.75);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

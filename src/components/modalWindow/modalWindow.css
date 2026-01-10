@@ -1,0 +1,32 @@
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    border: 6px solid #FF7315;
+    border-radius: 15px;
+    position: fixed;
+    top:100px;
+    right:50% ;
+    transform: translate(50%);
+    z-index: 9999;
+}
+
+
+.modal .msg {
+    color: #000000;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+
+
+
+
+
+

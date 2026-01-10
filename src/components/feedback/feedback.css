@@ -1,0 +1,57 @@
+.reviews{
+    height: 643px;
+    width: 1440px;
+    margin: 125px auto 0 auto;
+    background: #FF7315;
+    padding-top: 48px;
+    border-radius: 30px;
+}
+
+.reviews .wrap{
+    margin-top: 110px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.reviews h2{
+    margin: 0 auto;
+    width: 609px;
+    color: #F9F9F9;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.casing{
+    padding: 24px 55px 47px 55px;
+    width: 529px;
+    height: 179px;
+    border-radius: 30px;
+    background: #F9F9F9;
+}
+
+.reviews p{
+    width: 420px;
+    color: #222;
+    font-family: Poppins, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
