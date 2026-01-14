@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.e804b249.css",
+    "main.js": "/resume/static/js/main.90102c33.js",
+    "static/js/453.6d77a686.chunk.js": "/resume/static/js/453.6d77a686.chunk.js",
+    "static/media/computer-window.svg": "/resume/static/media/computer-window.5ffca659c66e3f082870e731eddc00a5.svg",
+    "static/media/man-at-the-table.svg": "/resume/static/media/man-at-the-table.4c9e66dee2b8bee03e90edba6c19d5cf.svg",
+    "static/media/dialogue.svg": "/resume/static/media/dialogue.31b40fa7ffa03f22fe9afbbf5eb37bfa.svg",
+    "static/media/handshake.svg": "/resume/static/media/handshake.4de071dfae3fb1e965b7205ad6f5818a.svg",
+    "static/media/star.svg": "/resume/static/media/star.46c6c846c2fadf2e06f6bddf705a6e0e.svg",
+    "static/media/instagram.svg": "/resume/static/media/instagram.f71459065dcb9a4705ab5d3113e25efc.svg",
+    "static/media/twitter.svg": "/resume/static/media/twitter.75e60acac34317ff24974552b7f19eca.svg",
+    "index.html": "/resume/index.html",
+    "static/media/telegram.svg": "/resume/static/media/telegram.c2d002f9692c2444cf6568e560a9f616.svg",
+    "static/media/facebook.svg": "/resume/static/media/facebook.3b01d528a1c797a7bf489207012aeb34.svg",
+    "main.e804b249.css.map": "/resume/static/css/main.e804b249.css.map",
+    "main.90102c33.js.map": "/resume/static/js/main.90102c33.js.map",
+    "453.6d77a686.chunk.js.map": "/resume/static/js/453.6d77a686.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e804b249.css",
+    "static/js/main.90102c33.js"
+  ]
+}
